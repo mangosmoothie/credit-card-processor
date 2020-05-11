@@ -134,5 +134,4 @@
                       first
                       :updated)))))
   (testing "generative tests"
-    ;; (check' (stest/check `account/command-executor))
-    ))
+    (check' (stest/check `account/command-executor))))
