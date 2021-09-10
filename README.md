@@ -31,9 +31,9 @@ This challange seemed to focus on testing and design which seemed a good fit for
 
 Run the project directly:
 
-    $ clojure -m braintree.credit-card-processor data.txt
+    $ clojure -m mangosmoothie.credit-card-processor data.txt
 
-    $ clojure -m braintree.credit-card-processor < data.txt
+    $ clojure -m mangosmoothie.credit-card-processor < data.txt
 
 Run the project's tests (currently runs ~3000 generative tests):
 
